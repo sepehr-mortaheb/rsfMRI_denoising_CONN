@@ -47,4 +47,4 @@ I tried to make this pipeline as automatic as possible. You just need to set som
 - If you need to change the hyperparmeters of different denoising steps, open the `func_denoisingBatch.m` file, and set the parameters with your own values accordingly.
 - I have tested the pipeline on `macOS Sonoma Version 14.5` and it works without any error.
 
-**Do not hesitate to send your feedback to improve this piepline!**
+**Do not hesitate to send your feedback to improve this pipeline!**
