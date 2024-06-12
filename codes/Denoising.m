@@ -14,7 +14,7 @@ save_dir = '';
 % --- Set the Acquisition Parameters --- 
 
 % The name of the functional task
-task_name = 'VDT';
+task_name = 'rest';
 % Repetition Time (RT) of the functional acquisition (seconds)
 func_TR = 1; 
 
